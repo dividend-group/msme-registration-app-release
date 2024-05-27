@@ -2,6 +2,8 @@
 
 The MSME Registration App v2.0 is a powerful mobile application designed to streamline the process of registering and collecting data for Micro, Small, and Medium Enterprises (MSMEs). This release marks a significant improvement over the previous version, addressing key issues faced by enumerators during field work.
 
+The app is compatible with Android versions 6.0 (Marshmallow) to 14 (Android 14), ensuring broad device compatibility for our enumerators.
+
 Key Features:
 
 1. **Seamless Data Synchronization**
